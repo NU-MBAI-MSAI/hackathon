@@ -2,9 +2,9 @@
 
 ## Guidelines
 
-You are encouraged to work on these problems as a group. 
+You are encouraged to work on these problems in a pair and discuss with your group. 
 
-Each student will need to submit the files produced by their group  (please list group members names in the in the header docstring). You should work on one computer in the same physical location and collaborate on all problems;  splitting up work is not permitted. One person ("driver") will type the code and another ("observer") will review and evaluate it, roles should be switched every 20 minutes.
+Each student will need to submit the files produced by their pair  (please list pair members names in the in the header docstring). You should work on one computer in the same physical location and collaborate on all problems;  splitting up work is not permitted. One person ("driver") will type the code and another ("observer") will review and evaluate it, roles should be switched every 20 minutes.
 
 All program files should contain header docstrings with name of program author(s), creation date and brief explanation of the program,  and in-line  comments explaining what your code does.
 
@@ -78,7 +78,7 @@ the return value is:
 
 
 
-## Best time to buy and sell stock
+## Best time to buy and sell stock (```stocktrading.py```)
 
 You are given a list ```prices``` where ```prices[i]``` is the price of a given stock on the ```i```th day.
 
