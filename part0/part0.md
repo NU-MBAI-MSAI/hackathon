@@ -35,7 +35,7 @@ the output is:
 ```
 *Note: there are no prompts displayed by input() function.*
 
-
+Thoroughly test your program. 
 
 ## Heating and cooling days (```heatingcooling.py```)
 
@@ -57,6 +57,7 @@ Enter the average daily temperature: -460
 Heating days: 2
 Cooling days: 2
 ```
+Thoroughly test your program. 
 
 ## Count input length without spaces, periods, exclamation points, or commas (```countinput.py```)
 Write a function ```countchars(st)``` that take a string as a parameter and returns the number of characters in this string excluding spaces, periods, exclamation points, or commas.
